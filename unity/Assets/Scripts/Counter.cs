@@ -16,6 +16,6 @@ public class Counter : MonoBehaviour
 
     void Update()
     {
-        aliens.text = "Aliens: " + counter; //sets the point counter text
+        aliens.text = "Coins: " + counter; //sets the point counter text
     }
 }
