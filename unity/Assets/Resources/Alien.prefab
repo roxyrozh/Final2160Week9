@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 127926089828745414}
   - component: {fileID: 4718041696413857437}
   - component: {fileID: 7242344443220338101}
-  - component: {fileID: -3002161093380673343}
+  - component: {fileID: 5928955348546791946}
   m_Layer: 0
   m_Name: Alien
   m_TagString: Untagged
@@ -165,7 +165,7 @@ CircleCollider2D:
   m_Offset: {x: -0.004711151, y: 0.3789519}
   serializedVersion: 2
   m_Radius: 2.3409705
---- !u!114 &-3002161093380673343
+--- !u!114 &5928955348546791946
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -174,10 +174,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3557297210857239014}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c3abf0482a49264384ba3d6ec643c7e, type: 3}
+  m_Script: {fileID: 11500000, guid: e240f8c5d31357945ad33e77a0f37862, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  alienTimer: 5
+  alienTimer: 10
 --- !u!1 &8241822776217462246
 GameObject:
   m_ObjectHideFlags: 0
